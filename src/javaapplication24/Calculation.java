@@ -14,5 +14,8 @@ public class Calculation {
     public int calculer (int a, int b ){
     return a+b;
     }
+    public int calculer1 (int a, int b ){
+    return a-b;
+    }
     
 }
